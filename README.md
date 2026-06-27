@@ -18,7 +18,7 @@ The objective of this project is to identify operational inefficiencies, underst
 
 ## 🛠️ Tools & Technologies Used
 - **Microsoft Excel** – Initial data inspection and validation
-- **Python** – Data cleaning and Exploratory Data Analysis (EDA)
+- **Python** – Data cleaning and Exploratory Data Analysis (EDA) using Jupyter Notebook
   - Pandas
   - NumPy
   - Matplotlib
