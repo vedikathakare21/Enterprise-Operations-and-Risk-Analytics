@@ -141,7 +141,4 @@ This project demonstrates an end-to-end data analytics workflow, starting from *
 ## 👩‍💻 Author
 **Vedika Thakare**  
 Data Analyst | Power BI | SQL | Python | Excel | Data Visualization Enthusiast
-
-📧 Email: your-email@example.com  
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/  
-🔗 GitHub: https://github.com/your-github-username
+  
